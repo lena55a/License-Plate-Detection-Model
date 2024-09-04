@@ -1,22 +1,22 @@
 # License-Plate-Detection-Model
 
 
-#Project Introduction
+# Project Introduction
 
 
 
-#Dataset Overview
-
-
-
-
-#Structure
-
-
-
-#Structure
+# Dataset Overview
 
 
 
 
-#Methodology
+# Structure
+
+
+
+# Structure
+
+
+
+
+# Methodology
